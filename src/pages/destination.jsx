@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import bg from '../assets/destination/background-destination-desktop.jpg'
-import moon from '../assets/destination/image-moon.png'
 import data from '../data.json'
 
 

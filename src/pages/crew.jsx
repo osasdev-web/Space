@@ -52,7 +52,7 @@ const handlePreviousImage=()=>{
 
         <div className="flex gap-5 h-full">
 
-            <div className=" flex absolute z-50 mt-86 w-full justify-between">
+            <div className=" flex absolute z-50 mt-86 w-full justify-between hover:bg-white">
 
               <div>
                 <button onClick={handlePreviousImage}><IoIosArrowBack /> </button>
